@@ -16,21 +16,12 @@ Esta es una aplicación web interactiva que te permite organizar un sorteo de am
 
 ## Cómo jugar
 
-1. Accede a la aplicación web aquí: [Amigo Secreto - Demo](https://raffarraffalopez.github.io/alura_oracle_one_G8/)
+1. Accede a la aplicación web 
 2. **Añade participantes:**
    - Escribe el nombre de un amigo en el campo de texto.
    - Haz clic en el botón **"Añadir"** para registrarlo en la lista.
 3. **Realiza el sorteo:**
    - Cuando hayas agregado a todos los participantes, presiona el botón **"Sortear amigo"**.
    - ¡Los resultados aparecerán en pantalla!
-
-##  Mejoras futuras
-
-- Implementar validaciones más avanzadas en los nombres para evitar errores.
-- Añadir una funcionalidad para guardar y descargar los resultados del sorteo.
-- Permitir la eliminación de participantes antes de realizar el sorteo.
-- Internacionalización para soportar múltiples idiomas.
-
----
 
 ¡Disfruta de tu sorteo de amigo secreto!
